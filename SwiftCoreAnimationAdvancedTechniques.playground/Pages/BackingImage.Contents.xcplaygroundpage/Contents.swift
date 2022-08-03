@@ -8,7 +8,7 @@
  - Important: If you supply anything other than a CGImage to layer contents, then your layer will be blank (for iOS)
  */
 //: ## Example
-//: ### Listing2.1 Setting a CGImage as the Layer contents
+//: ### Listing 2.1 Setting a CGImage as the Layer contents
 import UIKit
 
 final class ViewController: UIViewController {

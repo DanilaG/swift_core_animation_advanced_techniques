@@ -1,5 +1,5 @@
 /*:
- # contentsGravity
+ # ContentsGravity
  ### Backing Image
  [⏪ Previous](@previous)    [📄 Contents](Contents)    [Next ⏩](@next)
  */
@@ -8,7 +8,7 @@
  - Note: ```view?.layer.contentsGravity = .resizeAspect``` analogously ```view.contentMode = .scaleAspectFit```
  */
 //: ## Example
-//: ### Listing2.1* Using contentsGravity to change image alignment
+//: ### Listing 2.1* Using contentsGravity to change image alignment
 import UIKit
 
 final class ViewController: UIViewController {

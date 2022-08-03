@@ -6,5 +6,6 @@
         <page name='CALayers&amp;UIViews'/>
         <page name='BackingImage.Contents'/>
         <page name='BackingImage.contentsGravity'/>
+        <page name='BackingImage.contentsScale'/>
     </pages>
 </playground>
