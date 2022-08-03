@@ -15,8 +15,7 @@
  - Important: CALayer doesn't handler user interaction
  */
 /*:
- CALayers are structured as a tree, parallel beneath the UIView hierarchy.
- 
+ CALayers are structured as a tree.
  - Note: A view has only one backing layer (created automatically) but can host an unlimited number of additional layers.
  
  */
@@ -41,12 +40,8 @@ final class ViewController: UIViewController {
         self.view?.layer.addSublayer(blueLayer)
     }
 }
+
+present(ViewController())
 /*:
  - Note: CALayer works with CGColor, when UIView uses UIColor
  */
-// Present ViewController
-import PlaygroundSupport
-
-let viewController = ViewController()
-viewController.view.frame = CGRect(x: 0, y: 0, width: 200, height: 200)
-PlaygroundPage.current.liveView = viewController

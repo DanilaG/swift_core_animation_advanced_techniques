@@ -3,5 +3,6 @@
     <pages>
         <page name='Contents'/>
         <page name='CALayerTree'/>
+        <page name='CALayers&amp;UIViews'/>
     </pages>
 </playground>
