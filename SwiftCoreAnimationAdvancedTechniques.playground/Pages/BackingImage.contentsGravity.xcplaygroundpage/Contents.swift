@@ -22,7 +22,7 @@ final class ViewController: UIViewController {
         // Add it to our view's layer
         self.view?.layer.contents = image.cgImage
         
-        // Scale image to fit the layer bounds without distorting its aspect ratio
+        // Scale contents to fit
         self.view?.layer.contentsGravity = .resizeAspect
     }
 }

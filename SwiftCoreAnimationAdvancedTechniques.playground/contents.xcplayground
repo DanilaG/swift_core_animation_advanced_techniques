@@ -7,5 +7,6 @@
         <page name='BackingImage.Contents'/>
         <page name='BackingImage.contentsGravity'/>
         <page name='BackingImage.contentsScale'/>
+        <page name='BackingImage.contentsRect'/>
     </pages>
 </playground>
