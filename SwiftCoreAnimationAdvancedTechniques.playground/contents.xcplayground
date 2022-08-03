@@ -4,5 +4,6 @@
         <page name='Contents'/>
         <page name='CALayerTree'/>
         <page name='CALayers&amp;UIViews'/>
+        <page name='BackingImage.Contents'/>
     </pages>
 </playground>
