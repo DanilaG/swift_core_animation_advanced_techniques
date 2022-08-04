@@ -9,5 +9,6 @@
         <page name='BackingImage.contentsScale'/>
         <page name='BackingImage.contentsRect'/>
         <page name='BackingImage.contentsCenter'/>
+        <page name='CustomDrawing'/>
     </pages>
 </playground>
