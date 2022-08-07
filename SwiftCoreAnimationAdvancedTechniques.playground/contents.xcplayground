@@ -10,5 +10,7 @@
         <page name='BackingImage.contentsRect'/>
         <page name='BackingImage.contentsCenter'/>
         <page name='CustomDrawing'/>
+        <page name='Layout'/>
+        <page name='AnchorPoint'/>
     </pages>
 </playground>
