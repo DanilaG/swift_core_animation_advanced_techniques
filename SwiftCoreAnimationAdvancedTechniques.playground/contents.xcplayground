@@ -12,5 +12,6 @@
         <page name='CustomDrawing'/>
         <page name='Layout'/>
         <page name='AnchorPoint'/>
+        <page name='ZPriorityOfLayers'/>
     </pages>
 </playground>
