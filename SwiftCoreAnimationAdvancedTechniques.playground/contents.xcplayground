@@ -12,6 +12,8 @@
         <page name='CustomDrawing'/>
         <page name='Layout'/>
         <page name='AnchorPoint'/>
-        <page name='ZPriorityOfLayers'/>
+        <page name='Layer.zPriority'/>
+        <page name='Layer.contains'/>
+        <page name='Layer.hitTest'/>
     </pages>
 </playground>
