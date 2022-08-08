@@ -1,5 +1,6 @@
 /*:
- # Z priority of layers
+ # ZPriority
+ ### Layer
  [⏪ Previous](@previous)    [📄 Contents](Contents)    [Next ⏩](@next)
  */
 /*:
