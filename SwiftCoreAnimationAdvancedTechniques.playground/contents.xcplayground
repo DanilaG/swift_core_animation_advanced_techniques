@@ -15,6 +15,6 @@
         <page name='Layer.zPriority'/>
         <page name='Layer.contains'/>
         <page name='Layer.hitTest'/>
-        <page name='LayerDelegate.layoutSublayersOfLayer'/>
+        <page name='LayerDelegate.layoutSublayers'/>
     </pages>
 </playground>
