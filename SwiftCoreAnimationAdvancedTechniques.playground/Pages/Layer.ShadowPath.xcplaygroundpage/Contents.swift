@@ -1,6 +1,6 @@
 /*:
  # ShadowPath
- ### Backing Image
+ ### Layer
  [⏪ Previous](@previous)    [📄 Contents](Contents)    [Next ⏩](@next)
  */
 /*:
