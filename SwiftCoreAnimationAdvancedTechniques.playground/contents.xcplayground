@@ -17,5 +17,6 @@
         <page name='Layer.hitTest'/>
         <page name='LayerDelegate.layoutSublayers'/>
         <page name='Layer.CornerRadius'/>
+        <page name='Layer.Borders'/>
     </pages>
 </playground>
