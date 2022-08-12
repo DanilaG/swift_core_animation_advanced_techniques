@@ -20,5 +20,6 @@
         <page name='Layer.Borders'/>
         <page name='Layer.Shadow'/>
         <page name='Layer.ShadowClipping'/>
+        <page name='Layer.ShadowPath'/>
     </pages>
 </playground>
