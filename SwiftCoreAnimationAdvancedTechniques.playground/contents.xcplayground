@@ -19,5 +19,6 @@
         <page name='Layer.CornerRadius'/>
         <page name='Layer.Borders'/>
         <page name='Layer.Shadow'/>
+        <page name='Layer.ShadowClipping'/>
     </pages>
 </playground>
