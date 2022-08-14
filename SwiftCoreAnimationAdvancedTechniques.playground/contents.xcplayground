@@ -25,5 +25,6 @@
         <page name='Layer.MagnificationFilter'/>
         <page name='Layer.Opacity'/>
         <page name='Layer.AffineTransform'/>
+        <page name='AffineTransform.Concatenating'/>
     </pages>
 </playground>
