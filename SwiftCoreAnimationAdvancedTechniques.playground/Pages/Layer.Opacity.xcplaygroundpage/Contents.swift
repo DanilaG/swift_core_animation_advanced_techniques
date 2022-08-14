@@ -4,7 +4,7 @@
  [⏪ Previous](@previous)    [📄 Contents](Contents)    [Next ⏩](@next)
  */
 /*:
- The ```opacity``` property is equivalent for ```UIView``` ```alpha``` property. 
+ The ```opacity``` property is equivalent for ```UIView``` ```alpha``` property.
  */
 //: ## Example
 //: ### Usage of opacity
@@ -46,5 +46,5 @@ final class ViewController: UIViewController {
 
 present(ViewController())
 /*:
- - Note: If you set the opacity of a layer it will automatically affect all of its sublayers, as well
+ - Note: If you set the opacity of a layer it will automatically affect all of its sublayers
  */

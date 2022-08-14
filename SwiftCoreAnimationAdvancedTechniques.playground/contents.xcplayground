@@ -24,5 +24,6 @@
         <page name='Layer.Mask'/>
         <page name='Layer.MagnificationFilter'/>
         <page name='Layer.Opacity'/>
+        <page name='Layer.AffineTransform'/>
     </pages>
 </playground>
