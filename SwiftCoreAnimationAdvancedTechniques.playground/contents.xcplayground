@@ -27,5 +27,6 @@
         <page name='Layer.AffineTransform'/>
         <page name='AffineTransform.Concatenating'/>
         <page name='AffineTransform.CustomMatrix'/>
+        <page name='3DTransform.Perspective'/>
     </pages>
 </playground>
